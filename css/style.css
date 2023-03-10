@@ -1,0 +1,12 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+:root {
+  --darkViolet: #24053e;
+  --green: #44ffa1;
+  --greyViolet: #584d62;
+  --lightViolet: #fcf8ff;
+  --freunces: "Fraunces", serif;
+  --manrope: "Manrope", sans-serif;
+}
